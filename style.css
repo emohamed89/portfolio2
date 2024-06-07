@@ -60,7 +60,7 @@ body{
 }
 .home{
     height: 100vh;
-    background: url('/portfolio/portfolio2/earth.jpeg')no-repeat;
+    background: url('earth.jpeg')no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
